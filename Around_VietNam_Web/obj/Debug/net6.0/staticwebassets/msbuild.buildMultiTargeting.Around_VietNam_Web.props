@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Around_VietNam_Web.props" />
+</Project>
